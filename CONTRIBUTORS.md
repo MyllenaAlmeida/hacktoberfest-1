@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Myllena
+ - Place: Pernambuco, Brazil
+ - Bio: Developer Python.
+ - GitHub: [MyllenaAlmeida](https://github.com/MyllenaAlmeida)
